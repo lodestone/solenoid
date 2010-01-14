@@ -1,2 +1,2 @@
-require 'lib/solenoid'
+require 'solenoid'
 
